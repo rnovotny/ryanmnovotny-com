@@ -19,8 +19,7 @@ body {
 	background-repeat: no-repeat;
     background-position: right top;
 	background-attachment: fixed;
-	line-height: 1.66rem;
-	
+	line-height: 1.7rem;
 }
 	
 section {
@@ -70,6 +69,7 @@ p, h2, h3, li {
 	body {
 		padding-top: 15px;
 		background-image: url("portland.jpg");
+		line-height: 1.66rem;
 	}
 	section {
 		padding: 20px;	
